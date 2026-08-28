@@ -6,7 +6,7 @@
   BOOKING_LINK: your Google Calendar appointment schedule
 */
 
-const PAYMENT_LINK = "https://rzp.io/rzp/zi6HNacH";
+const PAYMENT_LINK = "https://rzp.io/rzp/7EMgpko";
 const BOOKING_LINK = "https://calendar.app.google/zAUHqCz8n5NpSpM67";
 
 document.addEventListener("DOMContentLoaded", () => {
